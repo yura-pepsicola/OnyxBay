@@ -165,14 +165,6 @@
 	light_type = /obj/item/weapon/light/bulb
 	construct_type = /obj/machinery/light_construct/small
 
-/obj/machinery/light/vox
-	name = "alien light"
-	icon = 'icons/obj/lighting.dmi'
-	icon_state = "voxlight"
-	base_state = "voxlight"
-	desc = "A strange lighting fixture."
-	light_type = /obj/item/weapon/light/tube
-
 /obj/machinery/light/small/emergency
 	light_type = /obj/item/weapon/light/bulb/red
 
